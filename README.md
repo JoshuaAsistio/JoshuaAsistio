@@ -8,3 +8,4 @@
 - Back then, however, I faced the possibility of not finishing my first year because my father just got laid off of his job and my mother is a housewife.
 - That's when I did what many rational person would do: ~~get a job so you could pay for tuition~~ go to youtube and look up "can you become a self-taught developer?"
 - A ton of Front end mentor projects and 4 freeCodeCamp curriculums later, I am now starting to apply for my first Front End Developer job.
+- Whenever I'm not coding or learning new technologies or languages, I often spend my time watching movies, animes, or reading a book.
